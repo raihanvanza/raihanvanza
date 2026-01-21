@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raihanvz</h1>
 <h3 align="center">A passionate Robotic Engineer from Indonesian</h3>
-<p align="center">I'am Batman</p>
+<p align="center">Hello World!</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
@@ -27,7 +26,7 @@
 - Full-Stack Robolover
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,arduino,raspberrypi,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,arduino,git,github,vscode" />
   </a>
 </p>
 
